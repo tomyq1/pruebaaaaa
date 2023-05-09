@@ -241,8 +241,3 @@ gap: 10px
     }
 }
 
-@media (min-width:761px) {
-    .contenedor-footer {
-        font-size: 50%;
-    }
-}
